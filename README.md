@@ -1,5 +1,5 @@
 # An Interactive Web-Based Dashboard to Track Trending Topics in Financial Journals
-This project builds a web-based interactive dashboard to detect trends in financial journals. The dashboard can be modified to detect trends for other datasets with similar formats, text, and related time series features (year).
+This project builds a web-based interactive dashboard to detect trends in financial journals. The dashboard can be modified to detect trends for other datasets with similar formats( text and related time series features such as year of publication in the case of journal papers).
 
 ## Technologies
 
